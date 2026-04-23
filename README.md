@@ -1,4 +1,4 @@
-# Overview
+# Overview and setup
 
 This is a custom GPT for ChatGPT, for: 
 
@@ -10,6 +10,7 @@ To create the GPT:
 - on ChatGPT, navigate to the page for creating a custom GPT (Explore GPTs > + Create)
 - navigate to the **Configure** tab 
 - copy the instructions below (you may use the copy icon) into the **Instructions** field
+- you may unselect all options in **Capabilities** 
 
 After creating the GPT, you may type `/help` for an overview of options.
 
