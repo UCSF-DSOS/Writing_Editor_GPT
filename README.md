@@ -11,7 +11,7 @@ To create the GPT:
 - copy the instructions below (you may use the copy icon) into the **Instructions** field
 - you may unselect all options in **Capabilities** 
 
-After creating the GPT, you may type `/help` for an overview of options.
+After creating the GPT, you may type `/help` for an overview of options. An example is provided further below.
 
 # Instructions
 
