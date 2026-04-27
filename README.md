@@ -15,6 +15,10 @@ Alternatively, you can copy the instructions into a new prompt in a chatbot of y
 
 After creating the GPT, you may type `/help` for an overview of options. An example is provided further below.
 
+# Warning
+
+We recommend using this tool **only with a chatbot that has been approved by your institution for secure, private use**. At UCSF, that option is ChatGPT Enterprise.
+
 # Instructions
 
 ```plaintext
