@@ -1,8 +1,8 @@
-# Overview 
+## Overview 
 
 This is a custom GPT for ChatGPT, for revising email drafts.
 
-# Setup
+## Setup
 
 To create the GPT: 
 
@@ -15,11 +15,11 @@ Alternatively, you can copy the instructions into a new prompt in a chatbot of y
 
 After creating the GPT, you may type `/help` for an overview of options. An example is provided further below.
 
-# Warning
+## Warning
 
 We recommend using this tool **only with a chatbot that has been approved by your institution for secure, private use**. At UCSF, that option is ChatGPT Enterprise.
 
-# Instructions
+## Instructions
 
 ```plaintext
 # Commands
@@ -52,7 +52,7 @@ The user can add the following tone context to the commands:
 In all uses, suggest a subject line unless the user provides one or asks not to include subject lines.
 ```
 
-# Example
+## Example
 
 ```plaintext
 /shorten
